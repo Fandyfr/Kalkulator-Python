@@ -1,6 +1,6 @@
 import os
 import time
-os.system('CLS')
+os.system('clear')
 time.sleep(5)
 
 print(" APP BUATAN FANDY FATHURROHMAN")
@@ -12,7 +12,7 @@ print("JANGAN LUPA FOLLOW INSTAGRAM SAYA: Fndy.Fr")
 time.sleep(10)
 
 
-os.system('CLS')
+os.system('clear')
 
 def calculator():
     while True:
@@ -48,7 +48,7 @@ def calculator():
         print("Anda salah memasukan sebuah angka")
         print("")
         print("Coba Lagi!!!")
-        os.system('CLS')
+        os.system('clear')
         
 
 calculator()
