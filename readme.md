@@ -6,7 +6,8 @@ Tidak ada bug di dalam program ini
 
 ```
 $ apt update - y && apt upgrade -y
-$ apt install python
+$ apt install python -y
+$ apt install git -y
 $ git clone https://github.com/Fandyfr/Kalkulator-Python.git
 ```
 
